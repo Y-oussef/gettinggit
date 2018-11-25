@@ -2,7 +2,8 @@
 
 void main()
 {
-  //Adding comment
   //Testing commit without add
+  //now testing add, status then commit
+
   printf("Hello tig");
 }
